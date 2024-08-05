@@ -7,4 +7,8 @@ export const GlobalStyles = createGlobalStyle`
         box-sizing: border-box;
         font-family: "Open Sans", sans-serif;
     }
+
+    body {
+        background-color: #232B23;
+    }
 `
